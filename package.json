@@ -1,0 +1,8 @@
+{
+  "name": "galactiq",
+  "version": "1.0.0",
+  "description": "Galactiq Web3 Project",
+  "scripts": {
+    "start": "node backend/server.js"
+  }
+}

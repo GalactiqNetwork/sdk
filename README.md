@@ -4,7 +4,7 @@
 
 Galactiq is a community-driven digital currency designed to make decentralized finance accessible, simple, and inclusive. Built for scalability and openness, Galactiq empowers users, developers, and creators to participate in a borderless financial ecosystem.
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : GDx9vxFkbqE5a61CVb4zNyWgAcMJwnNxBd4h2k8kpump
 ---
 
 ## 🌌 Vision
